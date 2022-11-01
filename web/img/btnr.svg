@@ -1,7 +1,0 @@
-<svg width="34" height="47" viewBox="0 0 34 47" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect x="34" y="47" width="34" height="47" rx="17" transform="rotate(-180 34 47)" fill="#2F2F2F"/>
-    <g stroke-width="2" stroke="#FFD600">
-        <line x1="26" y1="23" x2="12" y2="12" />
-        <line x1="26" y1="23" x2="12" y2="33"/>
-    </g>
-</svg>
